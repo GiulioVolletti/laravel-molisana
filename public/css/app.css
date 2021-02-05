@@ -94,6 +94,16 @@ main .cards .card:hover > .card-description {
   text-transform: uppercase;
 }
 
+.product-contain {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background-color: #B8DAE6;
+}
+.product-contain img {
+  width: 100%;
+}
+
 footer {
   padding: 60px 0;
   background-image: url("../img/footer-montagne-bottom.jpg");
